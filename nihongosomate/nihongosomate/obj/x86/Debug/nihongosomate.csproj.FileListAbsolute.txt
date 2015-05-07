@@ -1,0 +1,7 @@
+D:\Users\i01301093\Documents\GitHub\nihongosomate\nihongosomate\nihongosomate\bin\Debug\nihongosomate.exe
+D:\Users\i01301093\Documents\GitHub\nihongosomate\nihongosomate\nihongosomate\bin\Debug\nihongosomate.pdb
+D:\Users\i01301093\Documents\GitHub\nihongosomate\nihongosomate\nihongosomate\obj\x86\Debug\nihongosomate.Properties.Resources.resources
+D:\Users\i01301093\Documents\GitHub\nihongosomate\nihongosomate\nihongosomate\obj\x86\Debug\nihongosomate.csproj.GenerateResource.Cache
+D:\Users\i01301093\Documents\GitHub\nihongosomate\nihongosomate\nihongosomate\obj\x86\Debug\nihongosomate.exe
+D:\Users\i01301093\Documents\GitHub\nihongosomate\nihongosomate\nihongosomate\obj\x86\Debug\nihongosomate.pdb
+D:\Users\i01301093\Documents\GitHub\nihongosomate\nihongosomate\nihongosomate\obj\x86\Debug\nihongosomate.Form1.resources
