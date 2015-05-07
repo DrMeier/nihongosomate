@@ -1,0 +1,2 @@
+# nihongosomate
+japanese learning helper
