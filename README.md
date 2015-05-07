@@ -1,3 +1,3 @@
 # nihongosomate
 japanese learning helper
-compiler GNU GCC compiler
+Visual Studio 2010 project
